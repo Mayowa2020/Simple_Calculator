@@ -12,6 +12,6 @@ if (option == "+") {
 	alert(num1 - num2);
 } else if (option == "*") {
 	alert(num1 * num2);
-} else (option == "/") {
+} else {
 	alert(num1 / num2);
 }
